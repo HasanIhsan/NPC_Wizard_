@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NPC_Wizard_MVVM", "NPC_Wizard_MVVM\NPC_Wizard_MVVM.csproj", "{25F01D20-7151-48A3-ABAF-968DCF25112E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25F01D20-7151-48A3-ABAF-968DCF25112E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25F01D20-7151-48A3-ABAF-968DCF25112E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25F01D20-7151-48A3-ABAF-968DCF25112E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25F01D20-7151-48A3-ABAF-968DCF25112E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {04F6AABA-E0DD-4DB8-AC9D-5209FD3AD1A3}
+	EndGlobalSection
+EndGlobal

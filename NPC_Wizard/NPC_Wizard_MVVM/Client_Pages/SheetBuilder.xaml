@@ -1,0 +1,211 @@
+﻿<UserControl x:Class="NPC_Wizard_MVVM.Client_Pages.SheetBuilder"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:NPC_Wizard_MVVM.Client_Pages" xmlns:viewmodels="clr-namespace:NPC_Wizard_MVVM.viewModels"
+             mc:Ignorable="d" 
+             Height="518" Width="908">
+    <UserControl.DataContext>
+        <viewmodels:MainViewModel />
+    </UserControl.DataContext>
+
+    <Grid Background="#f2d49b" HorizontalAlignment="Center" VerticalAlignment="Center"  RenderTransformOrigin="1.323,0.767" Height="518" Width="908">
+
+        <Image Height="52" Margin="303,10,303,0" VerticalAlignment="Top" Source="/Assets/NPC_Wizard_Logo_inline.png" RenderTransformOrigin="1.103,0.521"/>
+        <StackPanel x:Name="masterPanel" Orientation="Vertical">
+            <StackPanel x:Name="row1" Orientation="Horizontal" Height="50"  Margin="0,90,0,0" HorizontalAlignment="Center">
+                <Grid x:Name="cNameGrid" Margin="0,0,0,0" Height="60">                    
+                    <Label Content="Character Name" Width="130"  FontFamily="{StaticResource CupandTalon}" FontSize="12.0"  HorizontalContentAlignment="Center"  VerticalAlignment="Top" Margin="0,0,0,0"/>
+                    <Grid>
+                        <Border BorderThickness="1" BorderBrush="WhiteSmoke" Height="25">
+                            <Border BorderThickness=".5" BorderBrush="Gray" >
+                                <TextBox x:Name="cName_txt" Width="150" Height="25" HorizontalAlignment="Center" Background="WhiteSmoke" Margin="0,0,0,0"/>
+                            </Border>
+                        </Border>
+                    </Grid>
+                </Grid>
+                <Grid x:Name="pNameGrid" Margin="30, 0,0,0"  Height="60">
+                    <Label Content="Player Name" Width="150"  FontFamily="{StaticResource CupandTalon}" FontSize="12.0"  HorizontalContentAlignment="Center" VerticalAlignment="Top"/>
+                    <Grid>
+                        <Border BorderThickness="1" BorderBrush="WhiteSmoke" Height="25">
+                            <Border BorderThickness=".5" BorderBrush="Gray" >
+                                <TextBox x:Name="pName_txt" Width="150" Height="25" HorizontalAlignment="Center" Background="WhiteSmoke" Margin="0,0,0,0" />
+                            </Border>
+                        </Border>
+                    </Grid>
+                </Grid>
+                <Grid x:Name="sizeGrid" Margin="30,0,0,0" Height="60">
+                    <Label Content="Size" Width="150" FontFamily="{StaticResource CupandTalon}" FontSize="12.0"  HorizontalContentAlignment="Center" VerticalAlignment="Top"/>
+
+
+                    <ComboBox x:Name="sizeCmb" Width="150" Height="25" HorizontalAlignment="Center" Background="WhiteSmoke" Margin="0,0,0,0" >
+                        <ComboBoxItem Content="Tiny"/>
+                        <ComboBoxItem Content="Small"/>
+                        <ComboBoxItem Content="Medium"/>
+                        <ComboBoxItem Content="Large"/>
+                        <ComboBoxItem Content="Huge"/>
+                        <ComboBoxItem Content="Gargantuan"/>
+                    </ComboBox>
+
+                </Grid>
+                <Grid x:Name="typeGrid" Margin="30,0,0,0" Height="60">
+                    <Label Content="Level" Width="150" FontFamily="{StaticResource CupandTalon}" FontSize="12.0"  HorizontalContentAlignment="Center" VerticalAlignment="Top"/>
+                    <ComboBox x:Name="LvlCmb" Width="150" Height="25" HorizontalAlignment="Center" Background="WhiteSmoke" Margin="0,5,0,5">
+                        <ComboBoxItem Content="1"/>
+                        <ComboBoxItem Content="2"/>
+                        <ComboBoxItem Content="3"/>
+                        <ComboBoxItem Content="4"/>
+                        <ComboBoxItem Content="5"/>
+                        <ComboBoxItem Content="6"/>
+                        <ComboBoxItem Content="7"/>
+                        <ComboBoxItem Content="8"/>
+                        <ComboBoxItem Content="9"/>
+                        <ComboBoxItem Content="10"/>
+                        <ComboBoxItem Content="11"/>
+                        <ComboBoxItem Content="12"/>
+                        <ComboBoxItem Content="13"/>
+                        <ComboBoxItem Content="14"/>
+                        <ComboBoxItem Content="15"/>
+                        <ComboBoxItem Content="16"/>
+                        <ComboBoxItem Content="17"/>
+                        <ComboBoxItem Content="18"/>
+                        <ComboBoxItem Content="19"/>
+                        <ComboBoxItem Content="20"/>
+                    </ComboBox>
+                </Grid>
+            </StackPanel>
+            <StackPanel x:Name="row2" Orientation="Horizontal" Height="50"  Margin="0,20,0,0" HorizontalAlignment="Center">
+                <Grid x:Name="hpGrid" Margin="0,0,0,0" Height="60">
+                    <Label Content="Hit Points" Width="130"  FontFamily="{StaticResource CupandTalon}" FontSize="12.0"  HorizontalContentAlignment="Center"  VerticalAlignment="Top" Margin="0,0,0,0"/>
+                    <Grid>
+                        <Border BorderThickness="1" BorderBrush="WhiteSmoke" Height="25">
+                            <Border BorderThickness=".5" BorderBrush="Gray" >
+                                <TextBox x:Name="hp_txt" Width="150" Height="25" HorizontalAlignment="Center" Background="WhiteSmoke" Margin="0,0,0,0"/>
+                            </Border>
+                        </Border>
+                    </Grid>
+                </Grid>
+                <Grid x:Name="lvlGrid" Margin="30,0,0,0" Height="60">                    
+                        <Label Content="Type" Width="150" FontFamily="{StaticResource CupandTalon}" FontSize="12.0"  HorizontalContentAlignment="Center" VerticalAlignment="Top"/>
+                        <ComboBox x:Name="typeCmb" Width="150" Height="25" HorizontalAlignment="Center" Background="Blue" Margin="0,5,0,5" >
+                        <ComboBoxItem Content="Aberration"/>
+                        <ComboBoxItem Content="Beast"/>
+                        <ComboBoxItem Content="Celestial"/>
+                        <ComboBoxItem Content="Construct"/>
+                        <ComboBoxItem Content="Dragon"/>
+                        <ComboBoxItem Content="Elemental"/>
+                        <ComboBoxItem Content="Fey"/>
+                        <ComboBoxItem Content="Fiend"/>
+                        <ComboBoxItem Content="Giant"/>
+                        <ComboBoxItem Content="Humanoid"/>
+                        <ComboBoxItem Content="Monstrosity"/>
+                        <ComboBoxItem Content="Ooze"/>
+                        <ComboBoxItem Content="Plant"/>
+                        <ComboBoxItem Content="Undead"/>
+                    </ComboBox>
+                </Grid>
+                <Grid x:Name="raceGrid" Margin="30,0,0,0" Height="60">
+                    <Label Content="Race" Width="150" FontFamily="{StaticResource CupandTalon}" FontSize="12.0"  HorizontalContentAlignment="Center" VerticalAlignment="Top"/>
+                    <ComboBox x:Name="raceCmb" Width="150" Height="25" HorizontalAlignment="Center" Background="White" Margin="0,5,0,5">
+                        <ComboBoxItem Content="Dragonborn"/>
+                        <ComboBoxItem Content="Dwarf"/>
+                        <ComboBoxItem Content="Elf"/>
+                        <ComboBoxItem Content="Gnome"/>
+                        <ComboBoxItem Content="Half-Elf"/>
+                        <ComboBoxItem Content="Half-Orc"/>
+                        <ComboBoxItem Content="Halfling"/>
+                        <ComboBoxItem Content="Human"/>
+                        <ComboBoxItem Content="Tiefling"/>
+                    </ComboBox>
+                </Grid>
+                <Grid x:Name="classGrid" Margin="30,0,0,0" Height="60">
+                    <Label Content="Class" Width="130"  FontFamily="{StaticResource CupandTalon}" FontSize="12.0"  HorizontalContentAlignment="Center"  VerticalAlignment="Top" Margin="0,0,0,0"/>
+                    <Grid>
+                        <Border BorderThickness="1" BorderBrush="WhiteSmoke" Height="25">
+                            <Border BorderThickness=".5" BorderBrush="Gray" >
+                                <TextBox x:Name="class_txt" Width="150" Height="25" HorizontalAlignment="Center" Background="WhiteSmoke" Margin="0,0,0,0"/>
+                            </Border>
+                        </Border>
+                    </Grid>
+                </Grid>
+                
+            </StackPanel>
+            <StackPanel x:Name="row3" Orientation="Horizontal" Height="50"  Margin="0,0,0,0" HorizontalAlignment="Center">
+                <Grid x:Name="profGrid" Margin="0,0,0,0" Height="60">
+                    <Button x:Name="profBtn" Background="{x:Null}" BorderThickness="0" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,10,0,0"  Click="profs_btn" DataContext="{Binding DataContext, RelativeSource={RelativeSource AncestorType={x:Type Window}}}"  Command="{Binding UpdateViewCommand}" CommandParameter="{x:Type viewmodels:ProficiencyUIViewModel}">
+                        <Image x:Name="profImg"  HorizontalAlignment="Center" Source="/Assets/Proficiencies.png" Height="25" Width="130" />
+                    </Button>
+                </Grid>
+                <Grid x:Name="equipGrid" Margin="60,0,0,0" Height="60">
+                    <Button x:Name="equipBtn" Background="{x:Null}" BorderThickness="0" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,10,0,0" Click="equipment_btn" DataContext="{Binding DataContext, RelativeSource={RelativeSource AncestorType={x:Type Window}}}"  Command="{Binding UpdateViewCommand}" CommandParameter="{x:Type viewmodels:ItemViewModel}">
+                        <Image x:Name="equipImg"  HorizontalAlignment="Center" Source="/Assets/Equipment.png" Height="25" Width="130" />
+                    </Button>
+                </Grid>
+                <Grid x:Name="spellGrid" Margin="60,0,0,0" Height="60" >
+                    <Button x:Name="spellBtn" Background="{x:Null}" BorderThickness="0" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,10,0,0" Click="spells_btn" DataContext="{Binding DataContext, RelativeSource={RelativeSource AncestorType={x:Type Window}}}"  Command="{Binding UpdateViewCommand}" CommandParameter="{x:Type viewmodels:SpellsUIViewModel}">
+                        <Image x:Name="spellImg"  HorizontalAlignment="Center" Source="/Assets/Spells.png" Height="25" Width="130" />
+                    </Button>
+                </Grid>
+            </StackPanel>
+            <StackPanel x:Name="row4" Orientation="Horizontal" Height="80"  Margin="0,20,0,0" HorizontalAlignment="Center">
+                <Grid x:Name="strGrid" Margin="0,0,0,0" Height="80">
+                    <Image x:Name="strImg"  HorizontalAlignment="Center" Source="/Assets/Abilities.png" Height="50" Width="60"/>
+                    <!--Label values will be added programmatically "Content" is currently Filler Text-->
+                    <TextBox x:Name="strBox" Background="{x:Null}" BorderThickness="0"  Foreground="WhiteSmoke" Margin="0,10,0,25" Padding="0,8,0,0" FontWeight="DemiBold" FontSize="20" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" />
+                    <Label x:Name="strMod" Content="{Binding strMod}"  FontSize="10" Margin="-1,45,3,7" HorizontalContentAlignment="Center" VerticalContentAlignment="Top" Padding="0,0,0,0"/>
+                    <Label Content="STRENGTH" Margin="0,60,0,0" Padding="0,0,0,0" VerticalAlignment="Bottom" HorizontalContentAlignment="Center"/>
+                </Grid>
+                <Grid x:Name="dexGrid" Margin="60,0,0,0" Height="80">
+                    <Image x:Name="dexImg"  HorizontalAlignment="Center" Source="/Assets/Abilities.png" Height="50" Width="60" />
+                    <TextBox x:Name="dexBox" Background="{x:Null}" BorderThickness="0"  Foreground="WhiteSmoke" Margin="0,10,0,25" Padding="0,8,0,0" FontWeight="DemiBold" FontSize="20" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" />
+                    <Label x:Name="dexMod" Content="{Binding dexMod}"  FontSize="10" Margin="-1,45,3,7" HorizontalContentAlignment="Center" VerticalContentAlignment="Top" Padding="0,0,0,0"/>
+                    <Label Content="DEXTERITY" Margin="0,60,0,0" Padding="0,0,0,0" VerticalAlignment="Bottom" HorizontalContentAlignment="Center"/>
+                </Grid>
+                <Grid x:Name="conGrid" Margin="60,0,0,0" Height="80">
+                    <Image x:Name="conImg"  HorizontalAlignment="Center" Source="/Assets/Abilities.png" Height="50" Width="60" />
+                    <TextBox x:Name="conBox" Background="{x:Null}" BorderThickness="0"  Foreground="WhiteSmoke" Margin="0,10,0,25" Padding="0,8,0,0" FontWeight="DemiBold" FontSize="20" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" />
+                    <Label x:Name="conMod" Content="{Binding conMod}"  FontSize="10" Margin="-1,45,3,7" HorizontalContentAlignment="Center" VerticalContentAlignment="Top" Padding="0,0,0,0"/>
+                    <Label Content="CONSTITUTION" Margin="0,60,0,0" Padding="0,0,0,0" VerticalAlignment="Bottom" HorizontalContentAlignment="Center"/>
+                </Grid>
+                <Grid x:Name="intGrid" Margin="60,0,0,0" Height="80">
+                    <Image x:Name="intImg"  HorizontalAlignment="Center" Source="/Assets/Abilities.png" Height="50" Width="60" />
+                    <TextBox x:Name="intBox" Background="{x:Null}" BorderThickness="0"  Foreground="WhiteSmoke" Margin="0,10,0,25" Padding="0,8,0,0" FontWeight="DemiBold" FontSize="20" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" />
+                    <Label x:Name="intMod" Content="{Binding intMod}"  FontSize="10" Margin="-1,45,3,7" HorizontalContentAlignment="Center" VerticalContentAlignment="Top" Padding="0,0,0,0"/>
+                    <Label Content="INTELLIGENCE" Margin="0,60,0,0" Padding="0,0,0,0" VerticalAlignment="Bottom" HorizontalContentAlignment="Center"/>
+                </Grid>
+                <Grid x:Name="wisGrid" Margin="60,0,0,0" Height="80">
+                    <Image x:Name="wisImg"  HorizontalAlignment="Center" Source="/Assets/Abilities.png" Height="50" Width="60" />
+                    <TextBox x:Name="wisBox" Background="{x:Null}" BorderThickness="0"  Foreground="WhiteSmoke" Margin="0,10,0,25" Padding="0,8,0,0" FontWeight="DemiBold" FontSize="20" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" />
+                    <Label x:Name="wisMod" Content="{Binding wisMod}"  FontSize="10" Margin="-1,45,3,7" HorizontalContentAlignment="Center" VerticalContentAlignment="Top" Padding="0,0,0,0"/>
+                    <Label Content="WISDOM" Margin="0,60,0,0" Padding="0,0,0,0" VerticalAlignment="Bottom" HorizontalContentAlignment="Center"/>
+                </Grid>
+                <Grid x:Name="chaGrid" Margin="60,0,0,0" Height="80">
+                    <Image x:Name="chaImg"  HorizontalAlignment="Center" Source="/Assets/Abilities.png" Height="50" Width="60" />
+                    <TextBox x:Name="chaBox" Background="{x:Null}" BorderThickness="0"  Foreground="WhiteSmoke" Margin="0,10,0,25" Padding="0,8,0,0" FontWeight="DemiBold" FontSize="20" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" />
+                    <Label x:Name="chaMod" Content="{Binding chaMod}"  FontSize="10" Margin="-1,45,3,7" HorizontalContentAlignment="Center" VerticalContentAlignment="Top" Padding="0,0,0,0"/>
+                    <Label Content="CHARISMA" Margin="0,60,0,0" Padding="0,0,0,0" VerticalAlignment="Bottom" HorizontalContentAlignment="Center"/>
+                </Grid>
+            </StackPanel>
+            <StackPanel x:Name="row5" Orientation="Horizontal" Height="30"  Margin="0,0,0,0" HorizontalAlignment="Center">
+                
+            </StackPanel>
+            <StackPanel x:Name="row6" Orientation="Horizontal" Height="30"  Margin="0,0,0,0" HorizontalAlignment="Center">
+                <Grid x:Name="saveGrid" Margin="0,0,0,0" >
+                    <Button x:Name="saveBtn" Background="{x:Null}" BorderThickness="0" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,0,0" Click="saveBtn_Click" DataContext="{Binding DataContext, RelativeSource={RelativeSource AncestorType={x:Type Window}}}"  Command="{Binding UpdateViewCommand}" CommandParameter="{x:Type viewmodels:SheetViewModel}">
+                        <Image x:Name="saveImg"  HorizontalAlignment="Center" Source="/Assets/Save.png" Height="25" Width="130" />
+                    </Button>
+                </Grid>
+                <Grid x:Name="cancGrid" Margin="60,0,0,0" >
+                    <Button x:Name="cancelBtn" Background="{x:Null}" BorderThickness="0" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,0,0" Click="cancel_Btnclick" DataContext="{Binding DataContext, RelativeSource={RelativeSource AncestorType={x:Type Window}}}" Command="{Binding UpdateViewCommand}" CommandParameter="{x:Type viewmodels:MainMenuViewModel}">
+                        <Image x:Name="cancImg" HorizontalAlignment="Center" Source="/Assets/Cancel.png" Height="25" Width="130" />
+                    </Button>
+                </Grid>
+            </StackPanel>
+
+        </StackPanel>
+
+
+
+    </Grid>
+</UserControl>

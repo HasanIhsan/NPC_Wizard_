@@ -1,0 +1,394 @@
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\Assets\Fonts\Cup_and_Talon.ttf
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\NPC_Wizard_MVVM.exe
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\NPC_Wizard_MVVM.deps.json
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\NPC_Wizard_MVVM.runtimeconfig.json
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\NPC_Wizard_MVVM.dll
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\NPC_Wizard_MVVM.pdb
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\AWSSDK.Core.dll
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\AWSSDK.SecurityToken.dll
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\Snappier.dll
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.csproj.AssemblyReference.cache
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\LoginView.g.cs
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\MainMenu.g.cs
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\ProficiencyUI.g.cs
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\ProfModal.g.cs
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\SheetBuilder.g.cs
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\SpellsUI.g.cs
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM_Content.g.cs
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM_MarkupCompile.cache
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM_MarkupCompile.lref
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\App.baml
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\LoginView.baml
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\MainMenu.baml
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\ProficiencyUI.baml
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\ProfModal.baml
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\SheetBuilder.baml
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\SpellsUI.baml
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.g.resources
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.AssemblyInfoInputs.cache
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.AssemblyInfo.cs
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.csproj.CoreCompileInputs.cache
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.csproj.CopyComplete
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.dll
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\refint\NPC_Wizard_MVVM.dll
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.pdb
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.genruntimeconfig.cache
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\ref\NPC_Wizard_MVVM.dll
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\Assets\Fonts\Cup_and_Talon.ttf
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\NPC_Wizard_MVVM.exe
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\NPC_Wizard_MVVM.deps.json
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\NPC_Wizard_MVVM.runtimeconfig.json
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\NPC_Wizard_MVVM.dll
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\NPC_Wizard_MVVM.pdb
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\AWSSDK.Core.dll
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\AWSSDK.SecurityToken.dll
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\DnsClient.dll
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\SharpCompress.dll
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\Snappier.dll
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\ZstdSharp.dll
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.csproj.AssemblyReference.cache
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\LoginView.g.cs
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\MainMenu.g.cs
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\ProficiencyUI.g.cs
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\ProfModal.g.cs
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\SheetBuilder.g.cs
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\SpellsUI.g.cs
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\App.g.cs
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM_Content.g.cs
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM_MarkupCompile.cache
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM_MarkupCompile.lref
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\App.baml
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\LoginView.baml
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\MainMenu.baml
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\ProficiencyUI.baml
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\ProfModal.baml
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\SheetBuilder.baml
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\SpellsUI.baml
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\MainWindow.baml
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.g.resources
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.GeneratedMSBuildEditorConfig.editorconfig
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.AssemblyInfoInputs.cache
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.AssemblyInfo.cs
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.csproj.CoreCompileInputs.cache
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.csproj.CopyComplete
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.dll
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\refint\NPC_Wizard_MVVM.dll
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.pdb
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.genruntimeconfig.cache
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\ref\NPC_Wizard_MVVM.dll
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\Assets\Fonts\Cup_and_Talon.ttf
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\NPC_Wizard_MVVM.exe
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\NPC_Wizard_MVVM.deps.json
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\NPC_Wizard_MVVM.runtimeconfig.json
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\NPC_Wizard_MVVM.dll
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\NPC_Wizard_MVVM.pdb
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\AWSSDK.Core.dll
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\AWSSDK.SecurityToken.dll
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\Snappier.dll
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.csproj.AssemblyReference.cache
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\LoginView.g.cs
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\MainMenu.g.cs
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\ProficiencyUI.g.cs
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\ProfModal.g.cs
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\SheetBuilder.g.cs
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\SpellsUI.g.cs
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM_Content.g.cs
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM_MarkupCompile.cache
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM_MarkupCompile.lref
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\App.baml
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\LoginView.baml
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\MainMenu.baml
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\ProficiencyUI.baml
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\ProfModal.baml
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\SheetBuilder.baml
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\SpellsUI.baml
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.g.resources
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.AssemblyInfoInputs.cache
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.AssemblyInfo.cs
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.csproj.CoreCompileInputs.cache
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.csproj.CopyComplete
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.dll
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\refint\NPC_Wizard_MVVM.dll
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.pdb
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.genruntimeconfig.cache
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\ref\NPC_Wizard_MVVM.dll
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\ItemUI.g.cs
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\ItemUI.baml
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\EquipModal.g.cs
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\EquipModal.baml
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\EquipModal.g.cs
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\ItemUI.g.cs
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\SpellsModal.g.cs
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\EquipModal.baml
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\ItemUI.baml
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\SpellsModal.baml
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\EquipModal.g.cs
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\ItemUI.g.cs
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\SpellsModal.g.cs
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\EquipModal.baml
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\ItemUI.baml
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\SpellsModal.baml
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\Assets\Fonts\Cup_and_Talon.ttf
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\NPC_Wizard_MVVM.exe
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\NPC_Wizard_MVVM.deps.json
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\NPC_Wizard_MVVM.runtimeconfig.json
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\NPC_Wizard_MVVM.dll
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\NPC_Wizard_MVVM.pdb
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\AWSSDK.Core.dll
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\AWSSDK.SecurityToken.dll
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\Snappier.dll
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.csproj.AssemblyReference.cache
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\EquipModal.g.cs
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\ItemUI.g.cs
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\LoginView.g.cs
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\MainMenu.g.cs
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\ProficiencyUI.g.cs
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\ProfModal.g.cs
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\SheetBuilder.g.cs
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\SpellsModal.g.cs
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\SpellsUI.g.cs
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\App.g.cs
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM_Content.g.cs
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM_MarkupCompile.cache
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM_MarkupCompile.lref
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\App.baml
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\EquipModal.baml
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\ItemUI.baml
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\LoginView.baml
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\MainMenu.baml
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\ProficiencyUI.baml
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\ProfModal.baml
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\SheetBuilder.baml
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\SpellsModal.baml
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\SpellsUI.baml
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.g.resources
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.AssemblyInfoInputs.cache
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.AssemblyInfo.cs
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.csproj.CoreCompileInputs.cache
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.csproj.CopyComplete
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.dll
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\refint\NPC_Wizard_MVVM.dll
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.pdb
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.genruntimeconfig.cache
+C:\Workspace\FanshaweFall2023\SoftwareProj\New_NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\ref\NPC_Wizard_MVVM.dll
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\Assets\Fonts\Cup_and_Talon.ttf
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\NPC_Wizard_MVVM.exe
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\NPC_Wizard_MVVM.deps.json
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\NPC_Wizard_MVVM.runtimeconfig.json
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\NPC_Wizard_MVVM.dll
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\NPC_Wizard_MVVM.pdb
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\AWSSDK.Core.dll
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\AWSSDK.SecurityToken.dll
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\Snappier.dll
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.csproj.AssemblyReference.cache
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\EquipModal.g.cs
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\ItemUI.g.cs
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\LoginView.g.cs
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\MainMenu.g.cs
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\ProficiencyUI.g.cs
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\ProfModal.g.cs
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\SheetBuilder.g.cs
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\SpellsModal.g.cs
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\SpellsUI.g.cs
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\App.g.cs
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM_Content.g.cs
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM_MarkupCompile.cache
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM_MarkupCompile.lref
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\App.baml
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\EquipModal.baml
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\ItemUI.baml
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\LoginView.baml
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\MainMenu.baml
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\ProficiencyUI.baml
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\ProfModal.baml
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\SheetBuilder.baml
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\SpellsModal.baml
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\SpellsUI.baml
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.g.resources
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.AssemblyInfoInputs.cache
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.AssemblyInfo.cs
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.csproj.CoreCompileInputs.cache
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.csproj.CopyComplete
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.dll
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\refint\NPC_Wizard_MVVM.dll
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.pdb
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.genruntimeconfig.cache
+C:\Workspace\FanshaweFall2023\SoftwareProj\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\ref\NPC_Wizard_MVVM.dll
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\SpellsModal.g.cs
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\SpellsModal.baml
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\Sheet_Display.g.cs
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\Sheet_Display.baml
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\Sheet_Display.g.cs
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\Sheet_Display.baml
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\LoadSheetModal.g.cs
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\LoadSheetModal.baml
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\LoadSheetModal.g.cs
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\Sheet_Display.g.cs
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\LoadSheetModal.baml
+D:\School Work\Sixth Term\Managing Software Projects\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\Sheet_Display.baml
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\Assets\Fonts\Cup_and_Talon.ttf
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\NPC_Wizard_MVVM.exe
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\NPC_Wizard_MVVM.deps.json
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\NPC_Wizard_MVVM.runtimeconfig.json
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\NPC_Wizard_MVVM.dll
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\NPC_Wizard_MVVM.pdb
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\AWSSDK.Core.dll
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\AWSSDK.SecurityToken.dll
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\DnsClient.dll
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\MongoDB.Bson.dll
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\MongoDB.Driver.dll
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\MongoDB.Driver.Core.dll
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\MongoDB.Libmongocrypt.dll
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\SharpCompress.dll
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\Snappier.dll
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\ZstdSharp.dll
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\runtimes\linux\native\libmongocrypt.so
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\bin\Debug\net6.0-windows\runtimes\win\native\mongocrypt.dll
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.csproj.AssemblyReference.cache
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\EquipModal.g.cs
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\ItemUI.g.cs
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\LoadSheetModal.g.cs
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\LoginView.g.cs
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\MainMenu.g.cs
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\ProficiencyUI.g.cs
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\ProfModal.g.cs
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\SheetBuilder.g.cs
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\Sheet_Display.g.cs
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\SpellsModal.g.cs
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\SpellsUI.g.cs
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM_Content.g.cs
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM_MarkupCompile.cache
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM_MarkupCompile.lref
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\App.baml
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\EquipModal.baml
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\ItemUI.baml
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\LoadSheetModal.baml
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\LoginView.baml
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\MainMenu.baml
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\ProficiencyUI.baml
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\ProfModal.baml
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\SheetBuilder.baml
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\Sheet_Display.baml
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\SpellsModal.baml
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\SpellsUI.baml
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.g.resources
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.AssemblyInfoInputs.cache
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.AssemblyInfo.cs
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.csproj.CoreCompileInputs.cache
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.csproj.CopyComplete
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.dll
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\refint\NPC_Wizard_MVVM.dll
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.pdb
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\NPC_Wizard_MVVM.genruntimeconfig.cache
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\npc_lates\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\ref\NPC_Wizard_MVVM.dll
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\LoadSheetModal.g.cs
+C:\Users\ihsan\Desktop\Fanshawe_work\term_8\INFO5103_Managing_Software_Projects-A2\Project\NPC_Wizard\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\Client_Pages\LoadSheetModal.baml

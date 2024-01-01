@@ -1,0 +1,47 @@
+﻿<Window x:Class="NPC_Wizard_MVVM.Client_Pages.ProfModal"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"       
+        xmlns:local="clr-namespace:NPC_Wizard_MVVM.Client_Pages"
+        mc:Ignorable="d"
+        Title="ProfModal" Height="400" Width="300"
+        WindowStyle="None"
+        
+        WindowStartupLocation="CenterOwner"
+        AllowsTransparency="True"
+        Background="Transparent">
+    <Grid>
+        <Border CornerRadius="10,10,10,10" Background="#F2EFE9">
+            <StackPanel>
+                <Button Background="{x:Null}" Height="25" Width="25" HorizontalAlignment="Right" BorderThickness="0" Margin="10,10" IsCancel="True">
+                    <Image Source="/Assets/X.png" />
+                </Button>
+                <TextBlock HorizontalAlignment="Center" Margin="0,0,0,15" FontSize="15" FontFamily="Montserrat"  Width="104" Height="20">Add Proficiency</TextBlock>
+                <ListBox x:Name="ProfList" ItemsSource="{Binding DisplayList}" Background="{x:Null}"  BorderThickness="1" Height="270" Width="250" SelectedIndex="1" >
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <Border BorderBrush="Black" BorderThickness="0,0,0,1">
+                                <Grid>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="Auto"/>
+                                    </Grid.ColumnDefinitions>
+                                    <TextBlock Text="{Binding}"  FontSize="18" FontFamily="Montserrat" VerticalAlignment="Center" HorizontalAlignment="Left" FontWeight="Normal" TextDecorations="None"/>
+                                </Grid>
+                            </Border>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+                <Button BorderThickness="0" Background="{x:Null}" Height="30" Width="150" Margin="0,10" Click="ConfirmBtn_Click">
+                    <Image Source="../Assets/Save.png"/>
+                </Button>
+            </StackPanel>
+
+
+        </Border>
+
+
+
+    </Grid>
+
+</Window>

@@ -1,0 +1,128 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>Assets\Icon_File.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Assets\Abilities.png" />
+    <None Remove="Assets\Add_Proficiency.png" />
+    <None Remove="Assets\Button_EditSheet.png" />
+    <None Remove="Assets\Button_LogIN.png" />
+    <None Remove="Assets\Button_NewSheet.png" />
+    <None Remove="Assets\Button_RunGame.png" />
+    <None Remove="Assets\Cancel.png" />
+    <None Remove="Assets\CharSheetBkgd.jpeg" />
+    <None Remove="Assets\closebtn.png" />
+    <None Remove="Assets\Delete_Alt.png" />
+    <None Remove="Assets\Delete_Icon.png" />
+    <None Remove="Assets\Equipment.png" />
+    <None Remove="Assets\Fonts\Cup_and_Talon.ttf" />
+    <None Remove="Assets\Icon_File.ico" />
+    <None Remove="Assets\Icon_File.png" />
+    <None Remove="Assets\MainMenuFancyBOTTOM.png" />
+    <None Remove="Assets\MainMenuFancyTOP.png" />
+    <None Remove="Assets\NPC Wizard Logo inline.png" />
+    <None Remove="Assets\NPC_Wizard_Logo.png" />
+    <None Remove="Assets\NPC_Wizard_Logo_inline.png" />
+    <None Remove="Assets\Proficiencies.png" />
+    <None Remove="Assets\Save.png" />
+    <None Remove="Assets\Skills.png" />
+    <None Remove="Assets\Spells.png" />
+    <None Remove="Assets\X.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\Abilities.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\Add_Proficiency.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\Cancel.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\CharSheetBkgd.jpeg" />
+    <Resource Include="Assets\closebtn.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\Delete_Alt.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\Delete_Icon.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\Equipment.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Content Include="Assets\Fonts\Cup_and_Talon.ttf">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Assets\Icon_File.ico" />
+    <Resource Include="Assets\Icon_File.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\Proficiencies.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\Save.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\Skills.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CommunityToolkit.Mvvm" Version="8.2.1" />
+    <PackageReference Include="MaterialDesignThemes" Version="4.9.0" />
+    <PackageReference Include="MongoDB.Bson" Version="2.21.0" />
+    <PackageReference Include="MongoDB.Driver" Version="2.21.0" />
+    <PackageReference Include="MongoDB.Driver.Core" Version="2.21.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Assets\Button_EditSheet.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\Button_LogIN.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\Button_NewSheet.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\Button_RunGame.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\Icon_File.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\MainMenuFancyBOTTOM.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\MainMenuFancyTOP.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\NPC Wizard Logo inline.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\NPC_Wizard_Logo.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\NPC_Wizard_Logo_inline.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\Spells.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\X.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+</Project>

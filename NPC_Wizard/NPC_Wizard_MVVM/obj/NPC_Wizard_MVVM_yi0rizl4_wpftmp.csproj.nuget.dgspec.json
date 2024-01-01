@@ -1,0 +1,96 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\the_d\\Desktop\\School_Stuff\\FINAL_SEMESTER\\Managing Software Projects\\NPC Wizrad Repo\\NPC_Wizard\\NPC_Wizard\\NPC_Wizard_MVVM\\NPC_Wizard_MVVM.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\the_d\\Desktop\\School_Stuff\\FINAL_SEMESTER\\Managing Software Projects\\NPC Wizrad Repo\\NPC_Wizard\\NPC_Wizard\\NPC_Wizard_MVVM\\NPC_Wizard_MVVM.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\the_d\\Desktop\\School_Stuff\\FINAL_SEMESTER\\Managing Software Projects\\NPC Wizrad Repo\\NPC_Wizard\\NPC_Wizard\\NPC_Wizard_MVVM\\NPC_Wizard_MVVM.csproj",
+        "projectName": "NPC_Wizard_MVVM",
+        "projectPath": "C:\\Users\\the_d\\Desktop\\School_Stuff\\FINAL_SEMESTER\\Managing Software Projects\\NPC Wizrad Repo\\NPC_Wizard\\NPC_Wizard\\NPC_Wizard_MVVM\\NPC_Wizard_MVVM.csproj",
+        "packagesPath": "C:\\Users\\the_d\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\the_d\\Desktop\\School_Stuff\\FINAL_SEMESTER\\Managing Software Projects\\NPC Wizrad Repo\\NPC_Wizard\\NPC_Wizard\\NPC_Wizard_MVVM\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\the_d\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\the_d\\OneDrive\\School\\Semester 6\\Software Componenets with NET\\MyNuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.2.1, )"
+            },
+            "MaterialDesignThemes": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            },
+            "MongoDB.Bson": {
+              "target": "Package",
+              "version": "[2.21.0, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.21.0, )"
+            },
+            "MongoDB.Driver.Core": {
+              "target": "Package",
+              "version": "[2.21.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.320\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

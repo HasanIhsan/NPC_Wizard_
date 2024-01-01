@@ -1,0 +1,71 @@
+﻿<UserControl x:Class="NPC_Wizard_MVVM.Client_Pages.SpellsUI"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:NPC_Wizard_MVVM.Client_Pages" xmlns:viewmodels="clr-namespace:NPC_Wizard_MVVM.viewModels"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             d:DataContext="{Binding RelativeSource={RelativeSource Self}}"
+             mc:Ignorable="d" 
+             d:DesignHeight="518" d:DesignWidth="908">
+    <Grid Background="#f2d49b" HorizontalAlignment="Center" VerticalAlignment="Center"  RenderTransformOrigin="1.323,0.767" Height="518" Width="908">
+
+        <Image Height="52" Margin="303,10,303,0" VerticalAlignment="Top" Source="/Assets/NPC_Wizard_Logo_inline.png" RenderTransformOrigin="1.103,0.521"/>
+
+        <StackPanel Name="masterPanel" Orientation="Vertical" Margin="40,90,40,0">
+            <Grid Name="titlePanel" Height="30" Margin="10,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+
+                <Label Content="Level" HorizontalAlignment="Center" FontFamily="{StaticResource CupandTalon}" FontSize="12.0" Grid.Column="0" />
+
+
+                <Label Content="Description" HorizontalAlignment="Center" FontFamily="{StaticResource CupandTalon}" FontSize="12.0" Grid.Column="1" />
+
+
+                <Label Content="Prepared" HorizontalAlignment="Center" FontFamily="{StaticResource CupandTalon}" FontSize="12.0" Grid.Column="2" />
+            </Grid>
+
+            <Border Name="titleBorder" BorderBrush="Black" BorderThickness="0,2,0,2">
+
+            </Border>
+
+            <Grid Name="itemPanel" Height="212">
+                <ScrollViewer VerticalScrollBarVisibility="Auto" BorderThickness="0" HorizontalScrollBarVisibility="Auto" Background="{x:Null}">
+                    <ListBox Margin="10" Name="spellsList" ItemsSource="{Binding SelectedDataSTRING}"  Background="{x:Null}" HorizontalContentAlignment="Stretch" BorderThickness="0" Height="202"  SelectionMode="Single" SelectionChanged="SpellsList_SelectionChanged" >
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <Border BorderBrush="Black" BorderThickness="0,0,0,1">
+                                    <Grid>
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="*"/>
+                                            <ColumnDefinition Width="Auto"/>
+                                        </Grid.ColumnDefinitions>
+                                        <TextBlock Text="{Binding Level}" FontSize="18" FontFamily="Montserrat" VerticalAlignment="Center" HorizontalAlignment="Left" Grid.Column="0" FontWeight="Normal"/>
+                                        <TextBlock Text="{Binding Name}" FontSize="18" FontFamily="Montserrat" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Column="0" FontWeight="Normal"/>
+                                        <CheckBox IsChecked="{Binding IsPrepared}" VerticalAlignment="Center" Grid.Column="2"/>
+                                    </Grid>
+                                </Border>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+
+                </ScrollViewer>
+            </Grid>
+            <Button Width="175" Margin="0,10,0,20" Background="{x:Null}" BorderThickness="0" Click="AddBtn_Click">
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Stretch">
+                    <materialDesign:PackIcon Margin="0,0,10,0" Height="30" Width="30" Kind="AddCircleOutline"/>
+                    <TextBlock Margin="0,2" FontSize="18">ADD SPELL</TextBlock>
+                </StackPanel>
+            </Button>
+            <Button Margin="250,5" Background="{x:Null}" BorderThickness="0"  Height="35" Width="243" DataContext="{Binding DataContext, RelativeSource={RelativeSource AncestorType={x:Type Window}}}"  Command="{Binding UpdateViewCommand}" CommandParameter="{x:Type viewmodels:SheetBuilderViewModel}">
+                <Image Source="../Assets/Save.png"/>
+            </Button>
+
+        </StackPanel>
+    </Grid>
+</UserControl>

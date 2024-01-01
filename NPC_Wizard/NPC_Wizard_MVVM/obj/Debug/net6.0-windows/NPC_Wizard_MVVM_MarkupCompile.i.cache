@@ -1,0 +1,20 @@
+﻿NPC_Wizard_MVVM
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\obj\Debug\net6.0-windows\
+NPC_Wizard_MVVM
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\Users\the_d\Desktop\School_Stuff\FINAL_SEMESTER\Managing Software Projects\NPC Wizrad Repo\NPC_Wizard\NPC_Wizard\NPC_Wizard_MVVM\App.xaml
+12-1621985274
+21934598931
+36-217504615
+210-211982445
+Client_Pages\EquipModal.xaml;Client_Pages\ItemUI.xaml;Client_Pages\LoadSheetModal.xaml;Client_Pages\LoginView.xaml;Client_Pages\MainMenu.xaml;Client_Pages\ProficiencyUI.xaml;Client_Pages\ProfModal.xaml;Client_Pages\SheetBuilder.xaml;Client_Pages\Sheet_Display.xaml;Client_Pages\SpellsModal.xaml;Client_Pages\SpellsUI.xaml;MainWindow.xaml;
+
+True
+

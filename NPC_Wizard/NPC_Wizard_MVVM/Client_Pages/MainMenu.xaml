@@ -1,0 +1,29 @@
+﻿<UserControl x:Class="NPC_Wizard_MVVM.Client_Pages.MainMenu"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:NPC_Wizard_MVVM.Client_Pages" xmlns:viewmodels="clr-namespace:NPC_Wizard_MVVM.viewModels"
+             mc:Ignorable="d" 
+             d:DesignHeight="518" d:DesignWidth="908">
+    <Grid Background="#f2d49b" HorizontalAlignment="Center" VerticalAlignment="Center"  RenderTransformOrigin="1.323,0.767" Height="518" Width="908">
+        
+        <Image Height="52" Margin="303,70,303,0" VerticalAlignment="Top" Source="/Assets/NPC_Wizard_Logo_inline.png" RenderTransformOrigin="1.103,0.521"/>
+        <StackPanel x:Name="FancyPanel" Orientation="Vertical"  VerticalAlignment="Center" HorizontalAlignment="Center">
+            <Image x:Name="FancyTop" Panel.ZIndex="-1" Source="/Assets/MainMenuFancyTOP.png" Width="200" Height="auto" Margin="0,0,0,-40"/>
+            <StackPanel x:Name="Btn_Pnl" Panel.ZIndex="10" Margin="125,0,125,0" HorizontalAlignment="Center" VerticalAlignment="Center">
+                <Button x:Name="NewSheetBtn" Background="{x:Null}" BorderThickness="0" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,10,0,0" Click="NewBtn_Click" DataContext="{Binding DataContext, RelativeSource={RelativeSource AncestorType={x:Type Window}}}" Command="{Binding UpdateViewCommand}" CommandParameter="{x:Type viewmodels:SheetBuilderViewModel}">
+                    <Image x:Name="NewSheetImg"  HorizontalAlignment="Center" Source="/Assets/Button_NewSheet.png" Height="25" Width="130" />
+                </Button>
+                <Button x:Name="EditSheetBtn" Background="{x:Null}" BorderThickness="0" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,29,0,0" Click="EditBtn_Click">
+                    <Image x:Name="EditSheetImg" Source="/Assets/Button_EditSheet.png" Height="25" Width="130"/>
+                </Button>
+                <!--<Button x:Name="RunGameBtn" Background="{x:Null}" BorderThickness="0" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,30,0,0">
+                    <Image x:Name="RunGameImg" Source="/Assets/Button_RunGame.png" Height="25" Width="130" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </Button>-->
+                <Image x:Name="FancyBottom" Panel.ZIndex="-1" Source="/Assets/MainMenuFancyBOTTOM.png" Width="200" Height="auto" Margin="0, -40, 0, 0"/>
+            </StackPanel>
+        </StackPanel>
+
+    </Grid>
+</UserControl>

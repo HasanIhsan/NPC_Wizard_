@@ -1,0 +1,46 @@
+﻿<Application x:Class="NPC_Wizard.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:NPC_Wizard"
+             xmlns:Client_Pages="clr-namespace:NPC_Wizard_MVVM.Client_Pages"
+             xmlns:viewmodels="clr-namespace:NPC_Wizard_MVVM.viewModels"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <!-- Define DataTemplates to specify how views should be displayed for ViewModel types -->
+        <DataTemplate DataType="{x:Type viewmodels:MainMenuViewModel}">
+            <!-- When a MainMenuViewModel is encountered, use the MainMenu view to display it -->
+            <Client_Pages:MainMenu/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewmodels:LoginViewModel}">
+            <!-- When a LoginViewModel is encountered, use the LoginView to display it -->
+            <Client_Pages:LoginView/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewmodels:SheetBuilderViewModel}">
+            <!-- When a SheetBuilderViewModel is encountered, use the SheetBuilder view to display it -->
+            <Client_Pages:SheetBuilder/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewmodels:ProficiencyUIViewModel}">
+            <Client_Pages:ProficiencyUI/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewmodels:SpellsUIViewModel}">
+            <Client_Pages:SpellsUI/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewmodels:ItemViewModel}">
+            <Client_Pages:ItemUI/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewmodels:SheetViewModel}">
+            <Client_Pages:Sheet_Display/>
+        </DataTemplate>
+        
+        <!-- Define a FontFamily resource named 'CupandTalon' -->
+        <FontFamily x:Key="CupandTalon">/Assets/Fonts/Cup_and_Talon.ttf#Cup and Talon</FontFamily>
+
+        <ResourceDictionary x:Key="MaterialDesignDictionary">
+            <ResourceDictionary.MergedDictionaries>
+                <materialDesign:CustomColorTheme BaseTheme="Light" PrimaryColor="#f2d49b" SecondaryColor="#8C2D27" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Defaults.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

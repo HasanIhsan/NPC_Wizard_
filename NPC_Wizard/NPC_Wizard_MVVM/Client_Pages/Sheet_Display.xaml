@@ -1,0 +1,60 @@
+﻿<UserControl x:Class="NPC_Wizard_MVVM.Client_Pages.Sheet_Display"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:NPC_Wizard_MVVM.Client_Pages" xmlns:viewmodels="clr-namespace:NPC_Wizard_MVVM.viewModels"
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             d:DataContext="{Binding RelativeSource={RelativeSource Self}}"
+             
+             mc:Ignorable="d" 
+             d:DesignHeight="518" d:DesignWidth="908">
+    <Grid Background="#f2d49b" HorizontalAlignment="Center" VerticalAlignment="Center"  RenderTransformOrigin="1.323,0.767" Height="518" Width="908">
+        <ScrollViewer VerticalScrollBarVisibility="Auto" BorderThickness="0" HorizontalScrollBarVisibility="Disabled" Background="{x:Null}">
+            <StackPanel>
+
+                <Image Height="52" Margin="303,10,303,0" VerticalAlignment="Top" Source="/Assets/NPC_Wizard_Logo_inline.png" RenderTransformOrigin="1.103,0.521"/>
+                <Grid Height="457">
+                    <Label Content="{Binding CharacterName}" FontSize="24" HorizontalContentAlignment="Left" Margin="352,10,353,407"/>
+                    <Label Content="Player Name:" HorizontalContentAlignment="Right" VerticalContentAlignment="Center" Padding="2,0" Height="26" Margin="29,51,773,380"/>
+                    <Label Content="{Binding PlayerName}" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" Height="26" Width="152" Margin="118,51,621,380"></Label>
+                    <Label Content="Level:" HorizontalContentAlignment="Right" VerticalContentAlignment="Center" Padding="2,0" Height="26" Margin="43,82,773,349"/>
+                    <Label Content="{Binding Level}" HorizontalContentAlignment="Left" Height="26" Margin="118,82,735,349"/>
+                    <Label Content="Class:" HorizontalContentAlignment="Right" VerticalContentAlignment="Center" Padding="2,0" Height="26" Margin="47,113,773,318"/>
+                    <Label Content="{Binding Class}" HorizontalContentAlignment="Left" Height="26" Margin="118,113,651,318"/>
+                    <Label Content="Race: " HorizontalContentAlignment="Right" VerticalContentAlignment="Center" Padding="2,0" Height="26" Margin="393,82,423,349"/>
+                    <Label Content="{Binding Race.Name}" HorizontalContentAlignment="Left" Height="26" Margin="473,82,342,349"/>
+                    <Label Content="ABILITY SCORES" HorizontalContentAlignment="Center" Padding="2,0" VerticalContentAlignment="Center" Height="26" FontWeight="Bold" Margin="393,153,363,278"/>
+                    <Label Content="{Binding Abilities[Strength]}" FontSize="24" Padding="2,0" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"  BorderBrush="Black" BorderThickness="1" Margin="184,206,660,211"/>
+                    <Label Content="Strength" Height="26" Margin="182,246,658,185" Padding="2,0" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+                    <Label Content="{Binding Abilities[Dexterity]}" FontSize="24" Padding="2,0" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" BorderBrush="Black" BorderThickness="1" Margin="279,206,565,211"/>
+                    <Label Content="Dexterity" Height="26" Margin="276,246,563,185" Padding="2,0" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+                    <Label Content="{Binding Abilities[Constitution]}" FontSize="24" Padding="2,0" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" BorderBrush="Black" BorderThickness="1" Margin="383,206,462,211"/>
+                    <Label Content="Constitution" HorizontalContentAlignment="Center"   VerticalContentAlignment="Center" Height="26" Margin="361,246,440,185" Padding="2,0" />
+                    <Label Content="{Binding Abilities[Intelligence]}" Padding="2,0" FontSize="24" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" BorderBrush="Black" BorderThickness="1" Margin="473,206,371,211"/>
+                    <Label Content="Intelligence" Height="26" HorizontalContentAlignment="Center" Margin="458,252,356,179" Padding="2,0" />
+                    <Label Content="{Binding Abilities[Wisdom]}" Padding="2,0" FontSize="24" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" BorderBrush="Black" BorderThickness="1" Margin="566,206,279,211"/>
+                    <Label Content="Wisdom" Height="26" HorizontalContentAlignment="Center" Padding="2,0" VerticalContentAlignment="Center" Margin="550,246,264,185"/>
+                    <Label Content="{Binding Abilities[Charisma]}" Padding="2,0" FontSize="24" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" BorderBrush="Black" BorderThickness="1" Margin="663,206,182,211"/>
+                    <Label Content="Charisma" Height="26" HorizontalContentAlignment="Center" Padding="2,0" VerticalContentAlignment="Center" Margin="648,246,167,185"/>
+                    <Label Content="Hit Points:"  Height="26" HorizontalContentAlignment="Right" Padding="2,0" VerticalContentAlignment="Center" Margin="391,51,423,380"></Label>
+                    <Label Content="{Binding HitPoints}" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Padding="2,0" Margin="473,51,389,380"></Label>
+                    <Label Content="AC:"  Height="26" HorizontalContentAlignment="Right" Padding="2,0" VerticalContentAlignment="Center" Margin="391,113,423,318"></Label>
+                    <Label Content="{Binding ArmorClass}" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Padding="2,0" Margin="473,113,389,318"></Label>
+                    <Label Content="Proficiencies" Height="26" HorizontalContentAlignment="Center" Padding="2,0" VerticalContentAlignment="Center" FontWeight="Bold" Margin="118,265,697,166"/>
+                    <ListBox x:Name="Proficiencies" ItemsSource="{Binding Proficiencies}" Background="{x:Null}" Margin="73,289,651,39"/>
+                    <Label Content="Spells" Height="26" HorizontalContentAlignment="Center" Padding="2,0" VerticalContentAlignment="Center" FontWeight="Bold" Margin="412,265,404,166"/>
+                    <ListBox x:Name="Spells" ItemsSource="{Binding Spells}" Background="{x:Null}" DisplayMemberPath="Name" Margin="352,289,349,39"/>
+                    <Label Content="Equipment" Height="26" HorizontalContentAlignment="Center" Padding="2,0" VerticalContentAlignment="Center" FontWeight="Bold" Margin="705,265,110,166"/>
+                    <ListBox x:Name="Equip" ItemsSource="{Binding Equipment}" Background="{x:Null}" Margin="648,289,53,39"/>
+                    <Button Margin="822,15,36,407" Background="{x:Null}" BorderThickness="0" IsCancel="True" DataContext="{Binding DataContext, RelativeSource={RelativeSource AncestorType={x:Type Window}}}" Command="{Binding UpdateViewCommand}" CommandParameter="{x:Type viewmodels:MainMenuViewModel}">
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Stretch">
+                            <materialDesign:PackIcon Height="30" Width="30" Kind="CloseCircleOutline"/>
+                        </StackPanel>
+                    </Button>
+                </Grid>
+            </StackPanel>
+        </ScrollViewer>
+
+    </Grid>
+</UserControl>
